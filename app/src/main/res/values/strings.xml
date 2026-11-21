@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PM AI</string>
+    <string name="accessibility_service_description">PM AI Phone Control enables hands-free screen scrolling, navigation gestures, and voice-triggered device actions when explicitly enabled by you.</string>
+    <string name="accessibility_service_label">PM AI Phone Control</string>
+    <string name="call_screening_service_label">PM AI Call Shield</string>
+</resources>

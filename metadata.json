@@ -1,0 +1,6 @@
+{
+  "name": "PM AI",
+  "description": "PM AI is an Android 16 AI phone assistant with Gemini brain, voice & vision intelligence, AI image studio, automatic call screening, accessibility screen scrolling, and smart messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
